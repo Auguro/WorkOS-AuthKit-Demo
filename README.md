@@ -112,6 +112,12 @@ Open [http://localhost:3000](http://localhost:3000)
 2. Try accessing enterprise pages with non enterprise login
 3. Break everything
 
+### Enterprise Login
+- email: john@doe.com
+- name: john
+- last name: doe
+- group: admin
+
 ## License
 
 MIT
