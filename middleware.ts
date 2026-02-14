@@ -12,5 +12,5 @@ export default authkitMiddleware({
 
 //Watch out. when i removed this line it started to process the css files (this is my theory) so i just add all
 export const config = {
-  matcher: ['/', '/public_dashboard', '/enterprise_dashboard', '/callback', '/login', '/profile'] 
+  matcher: ['/', '/public_dashboard', '/enterprise_dashboard', '/callback', '/login', '/profile', '/unauthorized'] 
 };

@@ -58,7 +58,7 @@ export default function Header({
         {showSignOut && (
           <form action={async () => {
             'use server';
-            await signOut({ returnTo: '/' });
+            await signOut();
           }}>
             <button 
               type="submit"
