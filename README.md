@@ -8,7 +8,7 @@ Enterprise authentication demo showcasing SSO integration, OAuth, and API integr
 
 ### Authentication
 - ✅ OAuth social login (Google)
-- ✅ Enterprise SSO with SAML
+- ✅ Enterprise SSO
 - ✅ Organization-based access control
 - ✅ Role-based permissions
 - ✅ Protected routes with middleware
